@@ -3,6 +3,7 @@ Original solutions written in Java 5 (or 6?) provided by Allen Downey in: ThinkD
 
 The book & its projects is entirely enjoyable and lead to many areas I could pursue. 
 
+Allen Downey's readme below:
 # ThinkDataStructures
 
 LaTeX source and supporting code for *Think Data Structures: Algorithms and Information Retrieval in Java*
