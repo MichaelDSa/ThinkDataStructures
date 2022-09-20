@@ -1,4 +1,4 @@
-My solutions using Java 14 found in: ThinkDataStructures/code/code/com/allendowney/thinkdast
+My solutions using Java 14 found in: ThinkDataStructures/code/src/com/allendowney/thinkdast
 
 Original solutions written in Java 5 (or 6?) provided by Allen Downey in: ThinkDataStructures/solutions
 
