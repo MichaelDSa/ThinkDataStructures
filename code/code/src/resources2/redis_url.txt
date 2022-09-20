@@ -1,1 +1,0 @@
-redis://redistogo:331ced2a5753246fd108cf859e6d5f62@sole.redistogo.com:9069/
