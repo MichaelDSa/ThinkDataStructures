@@ -1,3 +1,8 @@
+My solutions using Java 14 found in: ThinkDataStructures/code/code/com/allendowney/thinkdast
+Original solutions written in Java 5 (or 6?) provided by Allen Downey in: ThinkDataStructures/solutions
+
+The book & its projects is entirely enjoyable and lead to many areas I could pursue. 
+
 # ThinkDataStructures
 
 LaTeX source and supporting code for *Think Data Structures: Algorithms and Information Retrieval in Java*
