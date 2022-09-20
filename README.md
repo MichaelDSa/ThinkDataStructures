@@ -1,7 +1,5 @@
 Solutions for the problems in "Think Data Structures: Algorithms and Information Retrieval in Java" by Allen Downey. The original repo has a LaTex source for the book, which is open-sourced. The intention of this fork is to make my solutions available, demonstrate my learning trajectory, and show what I know.
 
-The Book directory was deleted in this fork so that GitHub can more accurately reflect my knowledge. Otherwise my stats were showing 50% LaTex, 48% Java, 2% HTML. I know nothing about LaTex beyond having heard of it. Sorry to butcher this fork. The book can easily be found for free on google, at greenteapress.com, or simply go to the source branch for the LaTeX file.
-
 Solutions completed July 2021.
 
 Code problems solved using Java 14 found in: ThinkDataStructures/code/src/com/allendowney/thinkdast
